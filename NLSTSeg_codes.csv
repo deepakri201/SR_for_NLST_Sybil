@@ -1,0 +1,30 @@
+Description,Structure,SegmentedPropertyCategoryCodeSequence.CodingSchemeDesignator,SegmentedPropertyCategoryCodeSequence.CodeValue,SegmentedPropertyCategoryCodeSequence.CodeMeaning,SegmentedPropertyTypeCodeSequence.CodingSchemeDesignator,SegmentedPropertyTypeCodeSequence.CodeValue,SegmentedPropertyTypeCodeSequence.CodeMeaning
+Mucin-producing adenocarcinoma,mucin_producing_adenocarcinoma,SCT,49755003,Morphologically Altered Structure,SCT,900006,Mucin-producing adenocarcinoma
+Signet ring cell carcinoma,signet_ring_cell_carcinoma,SCT,49755003,Morphologically Altered Structure,SCT,87737001,Signet ring cell carcinoma
+"Sq. cell carcinoma, keratinizing, NOS",squamous_cell_carcinoma_keratinizing,SCT,49755003,Morphologically Altered Structure,SCT,18048008,"Squamous cell carcinoma, keratinizing"
+"Bronchiolo-alveolar carcinoma, non-mucinous",bronchiolo_alveolar_carcinoma_non_mucinous,SCT,49755003,Morphologically Altered Structure,SCT,128659000,"Bronchiolo-alveolar carcinoma, non-mucinous"
+Adenocarcinoma with squamous metaplasia,adenocarcinoma_with_squamous_metaplasia,SCT,49755003,Morphologically Altered Structure,SCT,15176003,Adenocarcinoma with squamous metaplasia
+Mixed cell adenocarcinoma,mixed_cell_adenocarcinoma,SCT,49755003,Morphologically Altered Structure,SCT,38958001,Mixed cell adenocarcinoma
+"Carcinoma in situ, NOS",carcinoma_in_situ,SCT,49755003,Morphologically Altered Structure,SCT,1187138006,Carcinoma in situ
+"Papillary adenocarcinoma, NOS",papillary_adenocarcinoma,SCT,49755003,Morphologically Altered Structure,SCT,4797003,Papillary adenocarcinoma
+Oat cell carcinoma,small_cell_carcinoma_of_lung,SCT,49755003,Morphologically Altered Structure,SCT,254632001,Small cell carcinoma of lung
+Mixed invasive mucinous and non-mucinous adenocarcinoma,bronchiolo-alveolar_carcinoma_mixed_mucinous_and_non-mucinous,SCT,49755003,Morphologically Altered Structure,SCT,128661009,"Bronchiolo-alveolar carcinoma, mixed mucinous and non-mucinous"
+Non-small cell carcinoma,non-small_cell_carcinoma,SCT,49755003,Morphologically Altered Structure,SCT,128632008,Non-small cell carcinoma
+Adenocarcinoma with mixed subtypes,adenocarcinoma_with_mixed_subtypes,SCT,49755003,Morphologically Altered Structure,SCT,128662002,Adenocarcinoma with mixed subtypes
+"Sq. cell carcinoma, lg. cell, non-ker",squamous_cell_carcinoma_large_cell_nonkeratinizing,SCT,49755003,Morphologically Altered Structure,SCT,45490001,"Squamous cell carcinoma, large cell, nonkeratinizing"
+Invasive mucinous adenocarcinoma,mucinous_adenocarcinoma,SCT,49755003,Morphologically Altered Structure,SCT,72495009,Mucinous adenocarcinoma
+Neuroendocrine carcinoma,neuroendocrine_carcinoma,SCT,49755003,Morphologically Altered Structure,SCT,1286767006,Neuroendocrine carcinoma
+"Squamous cell carcinoma, NOS",squamous_cell_carcinoma,SCT,49755003,Morphologically Altered Structure,SCT,1162767002,Squamous cell carcinoma
+Mucinous adenocarcinoma,mucinous_adenocarcinoma,SCT,49755003,Morphologically Altered Structure,SCT,72495009,Mucinous adenocarcinoma
+"Neoplasm, malignant",malignant_neoplasm,SCT,49755003,Morphologically Altered Structure,SCT,1240414004,Malignant neoplasm
+Large cell neuroendocrine carcinoma,large_cell_neuroendocrine_carcinoma,SCT,49755003,Morphologically Altered Structure,SCT,128628002,Large cell neuroendocrine carcinoma
+Combined small cell carcinoma,combined_small_cell_carcinoma,SCT,49755003,Morphologically Altered Structure,SCT,21326004,Combined small cell carcinoma
+"Adenocarcinoma, NOS",adenocarcinoma,SCT,49755003,Morphologically Altered Structure,SCT,1187332001,Adenocarcinoma
+Adenosquamous carcinoma,adenosquamous_carcinoma,SCT,49755003,Morphologically Altered Structure,SCT,59367005,Adenosquamous carcinoma
+Acinar cell carcinoma,acinar_cell_carcinoma,SCT,49755003,Morphologically Altered Structure,SCT,45410002,Acinar cell carcinoma
+Basaloid squamous cell carcinoma,basaloid_squamous_cell_carcinoma,SCT,49755003,Morphologically Altered Structure,SCT,128634009,Basaloid squamous cell carcinoma
+"Large cell carcinoma, NOS",large_cell_carcinoma,SCT,49755003,Morphologically Altered Structure,SCT,22687000,Large cell carcinoma
+Lepidic adenocarcinoma,lepidic_adenocarcinoma,SCT,49755003,Morphologically Altered Structure,NCIt,C123160,Lepidic Adenocarcinoma
+"Carcinoid tumor, malignant",carcinoid_tumor_of_lung,SCT,49755003,Morphologically Altered Structure,SCT,254627002,Carcinoid tumor of lung
+"Small cell carcinoma, NOS",small_cell_carcinoma,SCT,49755003,Morphologically Altered Structure,SCT,74364000,Small cell carcinoma
+Neoplasm,neoplasm,SCT,49755003,Morphologically Altered Structure,SCT,74364000,Neoplasm
