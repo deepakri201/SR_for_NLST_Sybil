@@ -28,3 +28,4 @@ Lepidic adenocarcinoma,lepidic_adenocarcinoma,SCT,49755003,Morphologically Alter
 "Carcinoid tumor, malignant",carcinoid_tumor_of_lung,SCT,49755003,Morphologically Altered Structure,SCT,254627002,Carcinoid tumor of lung,,,
 "Small cell carcinoma, NOS",small_cell_carcinoma,SCT,49755003,Morphologically Altered Structure,SCT,74364000,Small cell carcinoma,,,
 Neoplasm,neoplasm,SCT,49755003,Morphologically Altered Structure,SCT,74364000,Neoplasm,,,
+Nodule,nodule,SCT,49755003,Morphologically Altered Structure,SCT,27925004,Nodule,,,
