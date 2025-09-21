@@ -4,8 +4,9 @@ This repository contains the code used to create DICOM Structured Reports (SR) f
 
 We include a number of demos:
 1. Creation of the SRs in this Google Colaboratory notebook [SR_for_NLST_Sybil.ipynb](https://github.com/deepakri201/SR_for_NLST_Sybil/blob/main/SR_for_NLST_Sybil.ipynb)
-1. Reading a single SR and visualizing a bounding box in the [read_sr_demo](https://github.com/deepakri201/SR_for_NLST_Sybil/tree/main/read_sr_demo) directory 
-2. Foundation model comparison in the [fm_demo](https://github.com/deepakri201/SR_for_NLST_Sybil/tree/main/fm_demo) directory
+2. Reading a single SR and visualizing a bounding box in the [read_sr_demo](https://github.com/deepakri201/SR_for_NLST_Sybil/tree/main/read_sr_demo) directory 
+3. Foundation model comparison in the [fm_demo](https://github.com/deepakri201/SR_for_NLST_Sybil/tree/main/fm_demo) directory
+4. Compare the NLST bounding boxes to the segmentations from NLSTSeg in the [compare_to_nlstseg](https://github.com/deepakri201/SR_for_NLST_Sybil/tree/main/compare_to_nlstseg) directory 
 
 
 Deepa Krishnaswamy 
